@@ -1,0 +1,43 @@
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.csproj.AssemblyReference.cache
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.Form1.resources
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.Properties.Resources.resources
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.csproj.GenerateResource.cache
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\bin\Debug\BookmarkManager.exe.config
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\bin\Debug\BookmarkManager.exe
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\bin\Debug\BookmarkManager.pdb
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.exe
+C:\Users\Public\Documents\BookMark Manager\BookmarkManager\obj\Debug\BookmarkManager.pdb
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.csproj.AssemblyReference.cache
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.Form1.resources
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.Properties.Resources.resources
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.csproj.GenerateResource.cache
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.csproj.CoreCompileInputs.cache
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.exe
+C:\Users\Seher\Desktop\dumi\obj\Debug\BookmarkManager.pdb
+C:\Users\Seher\Desktop\dumi\bin\Debug\BookmarkManager.exe.config
+C:\Users\Seher\Desktop\dumi\bin\Debug\BookmarkManager.exe
+C:\Users\Seher\Desktop\dumi\bin\Debug\BookmarkManager.pdb
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\bin\Debug\BookmarkManager.exe.config
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\bin\Debug\BookmarkManager.exe
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\bin\Debug\BookmarkManager.pdb
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.Form1.resources
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.exe
+C:\Users\andre\OneDrive\Desktop\dumi\dumi\obj\Debug\BookmarkManager.pdb
+C:\Users\Seher\Desktop\POO proiect\bin\Debug\BookmarkManager.exe.config
+C:\Users\Seher\Desktop\POO proiect\bin\Debug\BookmarkManager.exe
+C:\Users\Seher\Desktop\POO proiect\bin\Debug\BookmarkManager.pdb
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.csproj.AssemblyReference.cache
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.Form1.resources
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.Properties.Resources.resources
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.csproj.GenerateResource.cache
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.csproj.CoreCompileInputs.cache
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.exe
+C:\Users\Seher\Desktop\POO proiect\obj\Debug\BookmarkManager.pdb
